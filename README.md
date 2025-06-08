@@ -1,11 +1,6 @@
-👋 Hi, I'm Fredrik
+Hey there, I'm Fredrik 🚀 Linux, Security, SRE & Cloud Infrastructure tinkerer by day 🍺 Yeast whisperer and craft beer brewer by night
+Wrangling Linux systems, optimizing CDNs, and scaling cloud infrastructure when the sun's out
+Brewing hoppy magic and experimenting with fermentation after hours
+🛠 Currently leading engineering teams at Varnish Software, building high-performance, globally distributed systems to make the web faster.
+Crafting scalable tech and tasty brews!
 
-Linux System, Security, SRE & Cloud Infrastructure Expert
-- Developing for and taming Linux systems and optimizing CDNs while the sun's up
-- Cultivating yeast cultures and brewing craft beer when darkness falls
-
----
-
-Currently leading engineering teams at Varnish Software, building distributed systems for caching and accelerating HTTP workloads at global scale.
-
-*Building digital and fermented solutions, one commit at a time.*
